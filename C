@@ -1,0 +1,7 @@
+
+Key = "h22da39e"-- Put here key or raw link on key. Example: "https://1.kelprepl.repl.co/example", "Key_13904293482"
+Link = "https://gateway.platoboost.com/l/759/Velvethubkeysystem"-- Put here link. Example: "https://1.kelprepl.repl.co/example", "https://bit.ly/example"
+Script = "https://raw.githubusercontent.com/Iamiakk/VELVETX/main/MAINSCRIPT"-- Put here your script link. Example: "https://pastebin.com/raw/example"
+
+--! DON'T TOUCH ANYTHING BELOW !--
+loadstring(game:HttpGet("https://raw.githubusercontent.com/OopssSorry/FreeKeySystem/main/Lib.lua"))().Sus(Link,Script,Key)```
